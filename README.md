@@ -13,3 +13,4 @@ The overall Det-IGEN pipeline, covering both the image generation and detection 
 <img src="https://github.com/user-attachments/assets/54086d45-a766-4d21-92fd-1a8edfcd5238" alt="Pipeline" width="600" height="500">
 </p>
 
+![alt text](https://github.com/pandeysh-25/det-IGEN/main/detigen.png)
